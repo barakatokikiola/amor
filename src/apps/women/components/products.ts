@@ -1,4 +1,4 @@
-import type { Product } from "@/components/ProductCard";
+import type { Product } from "@/apps/shared/ProductCard";
 
 import handbagBlack from "@/assets/women/handbag-black.webp";
 import handbagGreen from "@/assets/women/handbag-green.webp";

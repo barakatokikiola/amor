@@ -1,4 +1,4 @@
-import ProductCard from "@/components/ProductCard";
+import ProductCard from "@/apps/shared/ProductCard";
 import { products } from "./components/products";
 import WomenHero from "./components/WomenHero";
 

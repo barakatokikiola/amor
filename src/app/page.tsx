@@ -1,5 +1,6 @@
-import Hero from "../components/Hero";
-import Featured from "../components/Featured";
+import Hero from "../apps/shared/Hero";
+import Featured from "../apps/shared/Featured";
+import BestSellers from "@/apps/shared/BestSellers";
 
 export default function Home() {
   return (
@@ -7,6 +8,7 @@ export default function Home() {
       <Hero />
 
       <Featured />
+      <BestSellers />
     </div>
   );
 }
