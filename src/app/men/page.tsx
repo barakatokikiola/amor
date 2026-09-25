@@ -1,8 +1,5 @@
-export default function MenPage(){
+import MenSection from "@/apps/men/MenSection";
 
-    return(
-        <div className="flex justify-center items-center font-bold">
-            Men Page
-        </div>
-    )
+export default function MenPage() {
+  return <MenSection />;
 }

@@ -1,9 +1,9 @@
 import Image from "next/image";
 import bag3 from "@/assets/women/handbag-tan.webp";
-import bag1 from "@/assets/men/image.png";
-import bag4 from "@/assets/men/handbag-tan.jpeg";
+import bag1 from "@/assets/men/image.webp";
+import bag4 from "@/assets/men/handbag-tan.webp";
 
-import duffel from "@/assets/men/duffel-tan.jpeg";
+import duffel from "@/assets/men/duffel-tan.webp";
 
 const featuredItems = [
   { id: 2, src: bag1, alt: "Bag 1" },

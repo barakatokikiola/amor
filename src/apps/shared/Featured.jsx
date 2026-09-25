@@ -4,9 +4,9 @@ import bag1 from "@/assets/women/woven-handbag-navy.webp";
 import bag4 from "@/assets/women/suede-bag-olive.webp";
 import bag2 from "@/assets/women/tote-stone.webp";
 import belt from "@/assets/belt/belt-p.webp";
-import sleeve from "@/assets/men/sleeve-tan.jpeg";
-import handbag from "@/assets/men/handbag-tan.jpeg";
-import duffel from "@/assets/men/duffel-tan.jpeg";
+import sleeve from "@/assets/men/sleeve-tan.webp";
+import handbag from "@/assets/men/handbag-tan.webp";
+import duffel from "@/assets/men/duffel-tan.webp";
 
 const featuredItems = [
   { id: 6, src: sleeve, alt: "Case" },
